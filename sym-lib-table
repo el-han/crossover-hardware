@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "nucleo144-h743zi")(type "KiCad")(uri "/home/helling/repos/nucleo144-h743zi.kicad_sym")(options "")(descr ""))
+  (lib (name "crossover")(type "KiCad")(uri "${KIPRJMOD}/crossover.kicad_sym")(options "")(descr ""))
+)

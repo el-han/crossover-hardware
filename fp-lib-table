@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "crossover")(type "KiCad")(uri "${KIPRJMOD}/crossover.pretty")(options "")(descr ""))
+)
