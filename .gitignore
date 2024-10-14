@@ -29,3 +29,9 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# ERC and DRC reports
+*.rpt
+
+gerbers*/
+*_gerbers.zip
